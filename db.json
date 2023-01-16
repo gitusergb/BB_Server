@@ -1,8 +1,14 @@
 {
-    
+    "Admin":[
+
+    ],
+    "Users":[
+        
+    ],
   "Products": [],
   "Men": [],
   "Women": [],
-  "Gifts": []
+  "Gifts": [],
+  "NewIn": []
   
 }
