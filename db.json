@@ -1,29 +1,8 @@
 {
-    "todo": [
-    {
-      "title": "eat",
-      "status": false,
-      "id": "1669724888474eat"
-    },
-    {
-      "title": "draw",
-      "status": false,
-      "id": "1669724895953draw"
-    },
-    {
-      "title": "paint",
-      "status": true,
-      "id": "1669724903455paint"
-    },
-    {
-      "title": "code",
-      "status": true,
-      "id": "1669724909241code"
-    },
-    {
-      "title": "rrr",
-      "status": true,
-      "id": "1673871109030rrr"
-    }
-  ]
+    
+  "Products": [],
+  "Men": [],
+  "Women": [],
+  "Gifts": []
+  
 }
