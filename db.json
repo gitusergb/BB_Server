@@ -2882,7 +2882,7 @@
       "dec": "A classic crew-neck silhouette in a viscose and wool blend, cut to a slim fit. The design is jacquard-woven with motifs celebrating the Year of the Rabbit.",
       "price": "5481",
       "category": "women",
-      "Ptype": "Sweater"
+      "Ptype": "Sweater","qty": 1
     },
     {
       "id": 52,
@@ -2900,7 +2900,7 @@
       "dec": "A lightweight cardigan in a wool blend, jacquard-woven with a fresh interpretation of our Horseferry logo. 100% of the wool in this product is responsibly sourced.",
       "price": 8456,
       "category": "women",
-      "Ptype": "Sweater"
+      "Ptype": "Sweater","qty": 1
     }
   
   
