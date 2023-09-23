@@ -3014,7 +3014,7 @@
       "dec": "An elegant shirt elevated in Italian-woven silk crepe de chine, highlighted with a pixelated take on our Burberry Check. The design is cut to a relaxed fit.",
       "price": 123,
       "category": "newin",
-      "Ptype": "coat"
+      "type": "coat"
     },
     {
       "id": 26,
@@ -3032,7 +3032,7 @@
       "dec": "A softly structured runway bag crafted from an Italian-woven cotton and wool blend bouclé highlighted with our Vintage Check. The style is punctuated with a polished chain strap and the Thomas Burberry Monogram. Wear it on the shoulder or style as a crossbody.",
       "price": 123,
       "category": "newin",
-      "Ptype": "bags"
+      "type": "bags"
     },
     {
       "id": 27,
@@ -3050,7 +3050,7 @@
       "dec": "A T-shirt containing organic cotton, cut to a regular fit and highlighted with a contrasting logo print.",
       "price": 123,
       "category": "newin",
-      "Ptype": "coat"
+      "type": "coat"
     },
     {
       "id": 28,
@@ -3068,7 +3068,7 @@
       "dec": "A cosy scarf in soft cashmere, highlighted with a pixelated take on our Burberry Check. Made at a 200-year-old mill in the Scottish countryside, using 30 different steps, the scarf is woven on traditional looms. The fabric is washed in local spring water and carefully brushed with teasels for a super-soft finish.​",
       "price": 123,
       "category": "newin",
-      "Ptype": "Scarf"
+      "type": "Scarf"
     },
     {
       "id": 29,
@@ -3086,7 +3086,7 @@
       "dec": "A structured tote in Italian-tanned grainy leather, punctuated with a polished Thomas Burberry Monogram. The compact design features multiple pockets and a leather-wrapped mirror charm. Carry in hand or by the detachable shoulder strap.",
       "price": 123,
       "category": "newin",
-      "Ptype": "bags"
+      "type": "bags"
     },
     {
       "id": 95,
@@ -3104,7 +3104,7 @@
       "dec": "A funnel-neck jacket in a double-faced viscose blend styled with rib-knit trims. The relaxed-fit design is highlighted with sporty side stripes and our logo in tonal embroidery.",
       "price": 1790,
       "category": "men",
-      "Ptype": "Jackets",
+      "type": "Jackets",
       "quantity": 10
     },
     {
@@ -3123,7 +3123,7 @@
       "dec": "A knitted bomber jacket in a double-faced wool and cashmere blend, animated with stripes and a tactile logo graphic appliqué.",
       "price": 1250,
       "category": "men",
-      "Ptype": "Jackets",
+      "type": "Jackets",
       "quantity": 10
     },
     {
@@ -3142,7 +3142,7 @@
       "dec": "A bomber jacket reimagined in soft cashmere, jacquard-woven with our Exaggerated Check. The design is detailed with rib-knit trims and leather zip pulls.",
       "price": 1550,
       "category": "men",
-      "Ptype": "Jackets",
+      "type": "Jackets",
       "quantity": 10
     },
     {
@@ -3161,7 +3161,7 @@
       "dec": "An oversized jacket in wool, highlighted with graphic stripes. The design is appliquéd with the Thomas Burberry Monogram and a motif celebrating the Year of the Rabbit.",
       "price": 1550,
       "category": "men",
-      "Ptype": "Jackets",
+      "type": "Jackets",
       "quantity": 10
     },
     {
@@ -3180,7 +3180,7 @@
       "dec": "Drawcord shorts in cotton, jacquard-woven and printed with a seasonal reworking of our Burberry Check.",
       "price": 670,
       "category": "men",
-      "Ptype": "Shorts",
+      "type": "Shorts",
       "quantity": 10
     },
     {
@@ -3199,7 +3199,7 @@
       "dec": "Knee-length shorts elevated in jacquard-woven check silk wool.",
       "price": 720,
       "category": "men",
-      "Ptype": "Shorts",
+      "type": "Shorts",
       "quantity": 10
     },
     {
@@ -3218,7 +3218,7 @@
       "dec": "Shorts containing organic loop-back cotton, highlighted with our logo in contrast lettering.",
       "price": 590,
       "category": "men",
-      "Ptype": "Shorts",
+      "type": "Shorts",
       "quantity": 10
     },
     {
@@ -3237,7 +3237,7 @@
       "dec": "Drawcord shorts in a wool blend, jacquard-woven with our Exaggerated Check and graphic stripes – referencing our house codes.",
       "price": 780,
       "category": "men",
-      "Ptype": "Shorts",
+      "type": "Shorts",
       "quantity": 10
     },
     {
@@ -3256,7 +3256,7 @@
       "dec": "Jogging pants containing organic loop-back cotton, accented with Burberry Check flannel side panels and a leather logo detail.",
       "price": 820,
       "category": "men",
-      "Ptype": "Pants",
+      "type": "Pants",
       "quantity": 10
     },
     {
@@ -3275,7 +3275,7 @@
       "dec": "A technical wool sweater in jacquard-woven check, cut to a slightly oversized fit. The design is finished with chunky rib-knit trims.",
       "price": 960,
       "category": "women",
-      "Ptype": "Sweater"
+      "type": "Sweater"
     },
     {
       "id": 50,
@@ -3293,7 +3293,7 @@
       "dec": "A classic crew-neck silhouette in a viscose and wool blend, cut to a slim fit. The design is jacquard-woven with motifs celebrating the Year of the Rabbit.",
       "price": 10020,
       "category": "women",
-      "Ptype": "Sweater"
+      "type": "Sweater"
     },
     {
       "id": 51,
@@ -3311,7 +3311,7 @@
       "dec": "A classic crew-neck silhouette in a viscose and wool blend, cut to a slim fit. The design is jacquard-woven with motifs celebrating the Year of the Rabbit.",
       "price": "5481",
       "category": "women",
-      "Ptype": "Sweater"
+      "type": "Sweater"
     },
     {
       "id": 52,
@@ -3329,7 +3329,7 @@
       "dec": "A lightweight cardigan in a wool blend, jacquard-woven with a fresh interpretation of our Horseferry logo. 100% of the wool in this product is responsibly sourced.",
       "price": 8456,
       "category": "women",
-      "Ptype": "Sweater"
+      "type": "Sweater"
     },
     {
       "id": 53,
@@ -3347,7 +3347,7 @@
       "dec": "Square-toe sock boots knitted with our Exaggerated Check, framed with a ribbed cuff and smooth leather trims. The style is set on a slim high heel.",
       "price": 999,
       "category": "women",
-      "Ptype": "shoes"
+      "type": "shoes"
     },
     {
       "id": 54,
@@ -3365,7 +3365,7 @@
       "dec": "Italian-made heeled leather ankle boots with contrasting panels in House check cotton twill. The design is finished with equestrian-inspired buckled straps.",
       "price": 1099,
       "category": "women",
-      "Ptype": "shoes"
+      "type": "shoes"
     },
     {
       "id": 55,
@@ -3383,7 +3383,7 @@
       "dec": "Italian-made suede Chelsea boots, detailed with side panels in our archival Vintage Check.",
       "price": 899,
       "category": "women",
-      "Ptype": "shoes"
+      "type": "shoes"
     },
     {
       "id": 56,
@@ -3401,7 +3401,7 @@
       "dec": "Italian-crafted boots in faux alligator-effect embossed leather, animated with our Exaggerated Check. The design is set on an exaggerated platform sole.",
       "price": 499,
       "category": "women",
-      "Ptype": "shoes"
+      "type": "shoes"
     },
     {
       "id": 57,
@@ -3419,7 +3419,7 @@
       "dec": "An elegant shirt elevated in Italian-woven silk crepe de chine, highlighted with a pixelated take on our Burberry Check. The design is cut to a relaxed fit.",
       "price": 699,
       "category": "women",
-      "Ptype": "shirts"
+      "type": "shirts"
     },
     {
       "id": 58,
@@ -3437,7 +3437,7 @@
       "dec": "A slim-fit shirt containing organic cotton, highlighted with our Exaggerated Check and trimmed with silk.",
       "price": 799,
       "category": "women",
-      "Ptype": "shirts"
+      "type": "shirts"
     },
     {
       "id": 1,
@@ -3455,7 +3455,7 @@
       "dec": "A softly structured, quilted camera bag crafted from Italian-tanned leather. The style is punctuated with a polished chain strap and the Thomas Burberry Monogram. Wear it on the shoulder or style as a crossbody.",
       "price": 123,
       "category": "gift",
-      "Ptype": "bags"
+      "type": "bags"
     },
     {
       "id": 2,
@@ -3473,7 +3473,7 @@
       "dec": "A trench coat crafted from bespoke cotton gabardine, developed for its crease-resistant structure and woven at the Burberry Mill in Yorkshire. The style is cut to a regular fit and panelled in our Burberry Check.",
       "price": 103,
       "category": "gift",
-      "Ptype": "coat"
+      "type": "coat"
     },
     {
       "id": 3,
@@ -3491,7 +3491,7 @@
       "dec": "A classic scarf in cashmere, highlighted with our Exaggerated Check and logo graphic. Made at a 200-year-old mill in the Scottish countryside, the scarf is woven on traditional looms, using 30 different steps. The fabric is washed in local spring water and carefully brushed with teasels for a super-soft finish.",
       "price": 123,
       "category": "gift",
-      "Ptype": "Scarf"
+      "type": "Scarf"
     },
     {
       "id": 4,
@@ -3509,7 +3509,7 @@
       "dec": "A compact card case in quilted Italian-tanned leather – a signature of our Lola family. The design is highlighted with a gold-plated Thomas Burberry Monogram.",
       "price": 123,
       "category": "gift",
-      "Ptype": "bags"
+      "type": "bags"
     },
     {
       "id": 5,
@@ -3527,7 +3527,7 @@
       "dec": "A classic bomber jacket elevated in wool cashmere, intarsia knitted with our signature check. The design features a topstitched leather zip pull and chunky rib-knit trims.",
       "price": 123,
       "category": "gift",
-      "Ptype": "coat"
+      "type": "coat"
     },
     {
       "id": 6,
@@ -3545,7 +3545,7 @@
       "dec": "A beanie in soft cashmere, embroidered with the oak leaf crest and logo – a reconstructed version of our archive emblem.",
       "price": 123,
       "category": "gift",
-      "Ptype": "cap"
+      "type": "cap"
     },
     {
       "id": 7,
@@ -3563,7 +3563,7 @@
       "dec": "An Italian-made bifold wallet in Italian-tanned grainy leather, detailed with a palladium-plated Thomas Burberry Monogram. The design is sized to fit all currencies.",
       "price": 123,
       "category": "gift",
-      "Ptype": "Wallet"
+      "type": "Wallet"
     },
     {
       "id": 8,
@@ -3581,7 +3581,7 @@
       "dec": "An adaptable nylon hooded jacket generously filled with goose down and cut to a relaxed fit, highlighted with tonal panels and a check-lined collar. Unzip the detachable sleeves to transition into a gilet.",
       "price": 123,
       "category": "gift",
-      "Ptype": "coat"
+      "type": "coat"
     },
     {
       "id": 9,
@@ -3599,7 +3599,7 @@
       "dec": "A slim tote bag in Italian-tanned leather, punctuated with a palladium-plated Thomas Burberry Monogram. The design features rolled leather top handles and a detachable shoulder strap.",
       "price": 123,
       "category": "gift",
-      "Ptype": "bags"
+      "type": "bags"
     },
     {
       "id": 10,
@@ -3617,7 +3617,7 @@
       "dec": "An Italian-made scarf in wool silk, jacquard-woven with our logo and Equestrian Knight Design. The design references sports styles with delicate eyelash fringing. 100% of the wool in this product is responsibly sourced.",
       "price": 123,
       "category": "gift",
-      "Ptype": "Scarf"
+      "type": "Scarf"
     }
   ]
 
