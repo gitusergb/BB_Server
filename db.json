@@ -5281,6 +5281,42 @@
           "comment": "Highly recommend for a contemporary room."
         }
       ]
+    },{
+      "id": 42,
+      "category": "Lighting",
+      "name": "Glow Dome Easy to Fit Shade ",
+      "price": 70.00,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4JuLOyykBuZ57YqvIb4BrIkXMf9VTUtcMIKm7i_IrJN3FkjTP4QJyqI1inLpafMCRbsc&usqp=CAU",
+      "brand": "ModernGlow",
+      "size": "Diameter: 30.5cm\"",
+      "material": "Metal",
+      "color": "black and golden",
+      "finish_type": "Industrial, Kids, Modern",
+      "about": "The perfect addition to your bedroom decor. Our lamp features a compact and modern design that will complement any decor style. The lamp is made of high-quality metal and glass, ensuring durability and longevity.. Dimensions: Diameter: 30.5cm\".",
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "ContemporarySpace",
+          "rating": 5,
+          "comment": "This pendant light is a modern masterpiece!"
+        },
+        {
+          "username": "ModernLighting",
+          "rating": 4,
+          "comment": "A bit pricey, but it's worth it for the quality."
+        },
+        {
+          "username": "GlowingHome",
+          "rating": 5,
+          "comment": "I'm in love with this pendant light. It's perfect for my contemporary decor."
+        },
+        {
+          "username": "EasyInstallation4",
+          "rating": 4,
+          "comment": "Installation was straightforward, no complaints."
+        }
+      
+      ]
     }
   ],
   "wood_c_users":[
