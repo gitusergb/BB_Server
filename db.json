@@ -4258,7 +4258,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 43,
       "category": "Lighting",
       "name": "Art Deco Chandelier",
       "price": 249.99,
@@ -5286,13 +5286,49 @@
       "category": "Lighting",
       "name": "Glow Dome Easy to Fit Shade ",
       "price": 70.00,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4JuLOyykBuZ57YqvIb4BrIkXMf9VTUtcMIKm7i_IrJN3FkjTP4QJyqI1inLpafMCRbsc&usqp=CAU",
+      "image": "https://m.media-amazon.com/images/I/41obyjtoNKL._AC_UL320_.jpg",
       "brand": "ModernGlow",
       "size": "Diameter: 30.5cm\"",
       "material": "Metal",
       "color": "black and golden",
       "finish_type": "Industrial, Kids, Modern",
       "about": "The perfect addition to your bedroom decor. Our lamp features a compact and modern design that will complement any decor style. The lamp is made of high-quality metal and glass, ensuring durability and longevity.. Dimensions: Diameter: 30.5cm\".",
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "ContemporarySpace",
+          "rating": 5,
+          "comment": "This pendant light is a modern masterpiece!"
+        },
+        {
+          "username": "ModernLighting",
+          "rating": 4,
+          "comment": "A bit pricey, but it's worth it for the quality."
+        },
+        {
+          "username": "GlowingHome",
+          "rating": 5,
+          "comment": "I'm in love with this pendant light. It's perfect for my contemporary decor."
+        },
+        {
+          "username": "EasyInstallation4",
+          "rating": 4,
+          "comment": "Installation was straightforward, no complaints."
+        }
+      
+      ]
+    },{
+      "id": 17,
+      "category": "Lighting",
+      "name": "LED Ring Light for Camera",
+      "price": 599.00,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg6b1IUfWSX2sNJP8p6h1DeNqjwlOtAwv2KA&usqp=CAU",
+      "brand": "Tygot",
+      "size": "Diameter: 10 inch\"",
+      "material": "1x ring light, 1x tripod stand",
+      "color": "white light, natural light, and warm light",
+      "finish_type": "Industrial, Kids, Modern",
+      "about": "Tygot 10 Inches Big LED Ring Light for Camera, Phone tiktok YouTube Video Shooting and Makeup, 10 inch Ring Light with 7 Feet Long Foldable and Lightweight Tripod Stand",
       "rating": 5,
       "reviews": [
         {
