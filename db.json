@@ -5035,6 +5035,252 @@
           "comment": "Highly recommend for a chic living room."
         }
       ]
+    },
+    {
+      "id": 36,
+      "category": "Cabinets",
+      "name": "Dijati Wood Wardrobe",
+      "price": 2000.95,
+      "image": "https://iili.io/t2nMMv.png",
+      "brand": "Dijati",
+      "size": "60\" x 18\" x 24\"",
+      "material": "Wood",
+      "color": "Wooden",
+      "finish_type": "Matte",
+      "about": "The Djati Wood Wardrobe is a modern, chic, and functional storage solution for any bedroom. It has six spacious drawers and two shelves for storage. The drawers are made of birch veneer and the shelves are made of MDF. The Djati Wood Wardrobe is available in two colors: black and white ",
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "MediaEnthusiast",
+          "rating": 5,
+          "comment": "I'm thrilled with this media cabinet! It's perfect."
+        },
+        {
+          "username": "OrganizedHome",
+          "rating": 4,
+          "comment": "Great cabinet for organizing media equipment."
+        },
+        {
+          "username": "HappyMovieNights",
+          "rating": 5,
+          "comment": "I love this purchase. It's perfect for my home theater."
+        },
+        {
+          "username": "EasyStorage2",
+          "rating": 4,
+          "comment": "Assembly was straightforward, but it's a bit bulky."
+        },
+        {
+          "username": "MediaStorageFan",
+          "rating": 5,
+          "comment": "Perfect for any media enthusiast."
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "category": "Cabinets",
+      "name": "White Wood wardrobe",
+      "price": 1500.95,
+      "image": "https://iili.io/t2n1ta.png",
+      "brand": "ModernMedia",
+      "size": "60\" x 18\" x 24\"",
+      "material": "Wood",
+      "color": "White",
+      "finish_type": "Matte",
+      "about": "White Wood wardrobe Do you have a place to store your clothes but need a place to put your other items? The White Wood wardrobe is the perfect solution. It's the perfect size for all of your clothes and with the 5 drawers, you'll have plenty of space for all of your other items.",
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "MediaEnthusiast",
+          "rating": 5,
+          "comment": "I'm thrilled with this media cabinet! It's perfect."
+        },
+        {
+          "username": "OrganizedHome",
+          "rating": 4,
+          "comment": "Great cabinet for organizing media equipment."
+        },
+        {
+          "username": "HappyMovieNights",
+          "rating": 5,
+          "comment": "I love this purchase. It's perfect for my home theater."
+        },
+        {
+          "username": "EasyStorage2",
+          "rating": 4,
+          "comment": "Assembly was straightforward, but it's a bit bulky."
+        },
+        {
+          "username": "MediaStorageFan",
+          "rating": 5,
+          "comment": "Perfect for any media enthusiast."
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "category": "Cabinets",
+      "name": "Aesthetic Minimalist Wardrobe",
+      "price": 3490.95,
+      "image": "https://iili.io/t2nOAX.png",
+      "brand": "ModernMedia",
+      "size": "60\" x 18\" x 24\"",
+      "material": "Wood",
+      "color": "Walnut",
+      "finish_type": "Matte",
+      "about": "Aesthetic Minimalist Wardrobe Be a minimalist with your wardrobe! With this pack, you will receive a variety of tops, bottoms, and shoes. This pack is perfect for people who don't want to spend too much time looking for the perfect outfit. These pieces are fashionable and will never go out of style. ",
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "MediaEnthusiast",
+          "rating": 5,
+          "comment": "I'm thrilled with this media cabinet! It's perfect."
+        },
+        {
+          "username": "OrganizedHome",
+          "rating": 4,
+          "comment": "Great cabinet for organizing media equipment."
+        },
+        {
+          "username": "HappyMovieNights",
+          "rating": 5,
+          "comment": "I love this purchase. It's perfect for my home theater."
+        },
+        {
+          "username": "EasyStorage2",
+          "rating": 4,
+          "comment": "Assembly was straightforward, but it's a bit bulky."
+        },
+        {
+          "username": "MediaStorageFan",
+          "rating": 5,
+          "comment": "Perfect for any media enthusiast."
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "category": "Lighting",
+      "name": "Amp Pendant Light Large",
+      "price": 233.99,
+      "image": "https://comfy-backend.vercel.app/uploads/products/product3.jpg",
+      "brand": "Git Lab",
+      "size": "Diameter: 14\"",
+      "material": "Glass and Metal",
+      "color": "White and Gold",
+      "finish_type": "Shiny",
+      "about": "The Amp Pendant Light Large is designed with a stunning glass shade, which diffuses the light and creates a warm and inviting atmosphere. The light's sleek and simple design adds a touch of sophistication to any space Dimensions: Diameter: 14\".",
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "ContemporarySpace",
+          "rating": 5,
+          "comment": "This pendant light is a modern masterpiece!"
+        },
+        {
+          "username": "ModernLighting",
+          "rating": 4,
+          "comment": "A bit pricey, but it's worth it for the quality."
+        },
+        {
+          "username": "GlowingHome",
+          "rating": 5,
+          "comment": "I'm in love with this pendant light. It's perfect for my contemporary decor."
+        },
+        {
+          "username": "EasyInstallation4",
+          "rating": 4,
+          "comment": "Installation was straightforward, no complaints."
+        },
+        {
+          "username": "ContemporaryFan",
+          "rating": 5,
+          "comment": "Highly recommend for a contemporary room."
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "category": "Lighting",
+      "name": "Spinning pendant lamp",
+      "price": 355.99,
+      "image": "https://comfy-backend.vercel.app/uploads/products/product8.jpg",
+      "brand": "Git Lab",
+      "size": "Diameter: 14\"",
+      "material": "Glass and Metal",
+      "color": "White and Black",
+      "finish_type": "Matte",
+      "about": "The perfect addition to your home decor collection. Our pendant light features a unique and modern design that will add a touch of elegance to any room. The light is made of high-quality metal and glass, ensuring durability and longevity. The Spinning pendant lamp is designed with a stunning glass shade, which diffuses the light and creates a warm and inviting atmosphere.  Dimensions: Diameter: 14\".",
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "ContemporarySpace",
+          "rating": 5,
+          "comment": "This pendant light is a modern masterpiece!"
+        },
+        {
+          "username": "ModernLighting",
+          "rating": 4,
+          "comment": "A bit pricey, but it's worth it for the quality."
+        },
+        {
+          "username": "GlowingHome",
+          "rating": 5,
+          "comment": "I'm in love with this pendant light. It's perfect for my contemporary decor."
+        },
+        {
+          "username": "EasyInstallation4",
+          "rating": 4,
+          "comment": "Installation was straightforward, no complaints."
+        },
+        {
+          "username": "ContemporaryFan",
+          "rating": 5,
+          "comment": "Highly recommend for a contemporary room."
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "category": "Lighting",
+      "name": "Panton lamp",
+      "price": 139.99,
+      "image": "https://comfy-backend.vercel.app/uploads/products/product10.jpg",
+      "brand": "ModernGlow",
+      "size": "Diameter: 8\"",
+      "material": "Wood and Metal",
+      "color": "Skin and pink",
+      "finish_type": "Shiny",
+      "about": "The perfect addition to your bedroom decor. Our lamp features a compact and modern design that will complement any decor style. The lamp is made of high-quality metal and glass, ensuring durability and longevity.. Dimensions: Diameter: 8\".",
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "ContemporarySpace",
+          "rating": 5,
+          "comment": "This pendant light is a modern masterpiece!"
+        },
+        {
+          "username": "ModernLighting",
+          "rating": 4,
+          "comment": "A bit pricey, but it's worth it for the quality."
+        },
+        {
+          "username": "GlowingHome",
+          "rating": 5,
+          "comment": "I'm in love with this pendant light. It's perfect for my contemporary decor."
+        },
+        {
+          "username": "EasyInstallation4",
+          "rating": 4,
+          "comment": "Installation was straightforward, no complaints."
+        },
+        {
+          "username": "ContemporaryFan",
+          "rating": 5,
+          "comment": "Highly recommend for a contemporary room."
+        }
+      ]
     }
   ],
   "wood_c_users":[
@@ -5288,6 +5534,7 @@
       "wishList": [],
       "addToCart": []
     },
+
     {
       "address": {
         "geolocation": {
@@ -5500,6 +5747,131 @@
         "lastname": "hale"
       },
       "phone": "1-678-456-1934",
+      "orders": [],
+      "wishList": [],
+      "addToCart": []
+    },
+    {
+      "address": {
+        "geolocation": {
+          "lat": "34.24788",
+          "long": "-29.545419"
+        },
+        "city": "fort lane",
+        "street": "oak lawn view",
+        "number": 530,
+        "zipcode": "10256-4532"
+      },
+      "id": 30,
+      "email": "Abhijeet@gmail.com",
+      "username": "Abhijeet",
+      "password": "Barma*#%*",
+      "name": {
+        "firstname": "Abhijeet",
+        "lastname": "Barma"
+      },
+      "phone": "1-106-001-4067",
+      "__v": 0,
+      "orders": [],
+      "wishList": [],
+      "addToCart": []
+    },
+    {
+      "address": {
+        "geolocation": {
+          "lat": "34.24788",
+          "long": "-29.545419"
+        },
+        "city": "fort kahihi",
+        "street": "ethech yaycha hota",
+        "number": 550,
+        "zipcode": "10256-4532"
+      },
+      "id": 100,
+      "email": "GB@gmail.com",
+      "username": "GB",
+      "password": "Dya*#%*",
+      "name": {
+        "firstname": "GB",
+        "lastname": "Dya"
+      },
+      "phone": "1-222-333-4444",
+      "__v": 0,
+      "orders": [],
+      "wishList": [],
+      "addToCart": []
+    },
+    {
+      "address": {
+        "geolocation": {
+          "lat": "34.24788",
+          "long": "-29.545419"
+        },
+        "city": "kaise kahihi",
+        "street": "ethech yaycha hota",
+        "number": 550,
+        "zipcode": "10256-4532"
+      },
+      "id": 50,
+      "email": "rutik@gmail.com",
+      "username": "rutik",
+      "password": "jadhav*#%*",
+      "name": {
+        "firstname": "rutik",
+        "lastname": "jadhav"
+      },
+      "phone": "1-222-222-4444",
+      "__v": 0,
+      "orders": [],
+      "wishList": [],
+      "addToCart": []
+    },
+    {
+      "address": {
+        "geolocation": {
+          "lat": "34.24788",
+          "long": "-29.545419"
+        },
+        "city": "kaise kiya",
+        "street": "ethech yayala kela",
+        "number": 570,
+        "zipcode": "10256-4532"
+      },
+      "id": 70,
+      "email": "Raghuwansh@gmail.com",
+      "username": "Raghuwansh",
+      "password": "Singh*#%*",
+      "name": {
+        "firstname": "Raghuwansh",
+        "lastname": "Singh"
+      },
+      "phone": "1-222-222-4494",
+      "__v": 0,
+      "orders": [],
+      "wishList": [],
+      "addToCart": []
+    },
+    {
+      "address": {
+        "geolocation": {
+          "lat": "34.24788",
+          "long": "-29.545419"
+        },
+        "city": "kaise kiya",
+        "street": "ethech yayala kela",
+        "number": 570,
+        "zipcode": "10256-4532"
+      },
+      "id": 60,
+      "email": "baibhav@gmail.com",
+      "username": "baibhav",
+      "password": "k*#%*",
+      "name": {
+        "firstname": "baibhav",
+        "lastname": "k"
+      },
+      "phone": "1-222-222-4499",
+      "__v": 0,
       "orders": [],
       "wishList": [],
       "addToCart": []
