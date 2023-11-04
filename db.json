@@ -3633,7 +3633,7 @@
       "color": "Walnut",
       "finish_type": "Matte",
       "about": "Upgrade your dining area with our Modern Dining Table. This walnut dining table features a matte finish and sleek design, perfect for family gatherings. Dimensions: 72\" x 36\" x 30\".",
-      "rating": 4,
+      "rating": 5,
       "reviews": [
         {
           "username": "Sarah123",
@@ -4433,7 +4433,7 @@
       "color": "Espresso",
       "finish_type": "Matte",
       "about": "Upgrade your workspace with our Modern Writing Desk. This espresso wood desk features a matte finish and a spacious design, perfect for work and study. Dimensions: 48\" x 24\" x 30\".",
-      "rating": 5,
+      "rating": 2,
       "reviews": [
         {
           "username": "ProductivityPro3",
@@ -4884,7 +4884,7 @@
       "color": "White and Black",
       "finish_type": "Matte",
       "about": "Elevate your entertainment area with our Modern TV Stand. This white wood and black metal TV stand features a matte finish and ample storage for media devices. Dimensions: 60\" x 16\" x 24\".",
-      "rating": 5,
+      "rating": 1,
       "reviews": [
         {
           "username": "EntertainmentLover",
@@ -4925,7 +4925,7 @@
       "color": "Bronze",
       "finish_type": "Shiny",
       "about": "Illuminate your space with our Modern Pendant Light. This bronze metal pendant light features a shiny glass shade with a diameter of 14 inches. It adds a contemporary touch to any room. Dimensions: Diameter: 14\".",
-      "rating": 4,
+      "rating": 3,
       "reviews": [
         {
           "username": "ContemporarySpace",
@@ -5089,7 +5089,7 @@
       "color": "White",
       "finish_type": "Matte",
       "about": "White Wood wardrobe Do you have a place to store your clothes but need a place to put your other items? The White Wood wardrobe is the perfect solution. It's the perfect size for all of your clothes and with the 5 drawers, you'll have plenty of space for all of your other items.",
-      "rating": 5,
+      "rating": 4,
       "reviews": [
         {
           "username": "MediaEnthusiast",
@@ -5130,7 +5130,7 @@
       "color": "Walnut",
       "finish_type": "Matte",
       "about": "Aesthetic Minimalist Wardrobe Be a minimalist with your wardrobe! With this pack, you will receive a variety of tops, bottoms, and shoes. This pack is perfect for people who don't want to spend too much time looking for the perfect outfit. These pieces are fashionable and will never go out of style. ",
-      "rating": 5,
+      "rating": 2,
       "reviews": [
         {
           "username": "MediaEnthusiast",
@@ -5212,7 +5212,7 @@
       "color": "White and Black",
       "finish_type": "Matte",
       "about": "The perfect addition to your home decor collection. Our pendant light features a unique and modern design that will add a touch of elegance to any room. The light is made of high-quality metal and glass, ensuring durability and longevity. The Spinning pendant lamp is designed with a stunning glass shade, which diffuses the light and creates a warm and inviting atmosphere.  Dimensions: Diameter: 14\".",
-      "rating": 4,
+      "rating": 2,
       "reviews": [
         {
           "username": "ContemporarySpace",
@@ -5253,7 +5253,7 @@
       "color": "Skin and pink",
       "finish_type": "Shiny",
       "about": "The perfect addition to your bedroom decor. Our lamp features a compact and modern design that will complement any decor style. The lamp is made of high-quality metal and glass, ensuring durability and longevity.. Dimensions: Diameter: 8\".",
-      "rating": 4,
+      "rating": 1,
       "reviews": [
         {
           "username": "ContemporarySpace",
@@ -5407,6 +5407,332 @@
           "comment": "Installation was straightforward, no complaints."
         }
       
+      ]
+    }, {
+      "id": 46,
+      "category": "Chairs",
+      "name": "wooden Chair",
+      "price": 299.95,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShaVeDtgqzlBjyasrOlQya75KAGlPpv7fiNYoeyXhD9hjo8-b82AXAbgR--hHMQN3HYN0&usqp=CAU",
+      "brand": "LuxuryComfort",
+      "size": "28\" x 32\" x 35\"",
+      "material": "Leather",
+      "color": "White",
+      "finish_type": "Matte",
+      "about": "Relax in style with our Chair. This chair features a matte finish and exceptional comfort, perfect for your living room. Dimensions: 28\" x 32\" x 35\".",
+      "rating": 1,
+      "reviews": [
+        {
+          "username": "ComfortSeeker",
+          "rating": 5,
+          "comment": "This lounge chair is incredibly comfortable."
+        }
+       
+      ]
+    },
+    {
+      "id": 47,
+      "category": "Chairs",
+      "name": "wooden Chair",
+      "price": 600.95,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3b2gvmUyAehhYvhJvS4JvAi8oXQTJe83pEqXeeEQVTDbw8VksCrTVOtjo0FCsxyN2P5M&usqp=CAU",
+      "brand": "LuxuryComfort",
+      "size": "28\" x 32\" x 35\"",
+      "material": "wooden",
+      "color": "wood",
+      "finish_type": "Matte",
+      "about": "Relax in style with our Chair. This chair features a matte finish and exceptional comfort, perfect for your living room. Dimensions: 28\" x 32\" x 35\".",
+      "rating": 1,
+      "reviews": [
+        {
+          "username": "ComfortSeeker",
+          "rating": 5,
+          "comment": "This lounge chair is incredibly comfortable."
+        },
+        {
+          "username": "LeatherLover",
+          "rating": 4,
+          "comment": "Great value for a stylish leather chair."
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "category": "Beds",
+      "name": "Uphols Bed",
+      "price": 4499.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK9ma3pAmcm9CynOo7UsKcmkVGiFZgGX3RyA&usqp=CAU",
+      "brand": "UpholsteredLux",
+      "size": "84\" x 62\" x 36\"",
+      "material": "Fabric",
+      "color": "Beige",
+      "finish_type": "Soft",
+      "about": "Upgrade your bedroom with our Upholstered Platform Bed. This beige fabric platform bed features a soft finish and a stylish headboard. It adds a touch of luxury to your space. Dimensions: 84\" x 62\" x 36\".",
+      "rating": 1,
+      "reviews": [
+        {
+          "username": "LuxuriousRetreat",
+          "rating": 5,
+          "comment": "This upholstered platform bed is pure luxury! So comfortable."
+        },
+        {
+          "username": "UpholsteredLove",
+          "rating": 4,
+          "comment": "Great value for a stylish platform bed."
+        },
+        {
+          "username": "CozyBedroom",
+          "rating": 5,
+          "comment": "I'm in love with this bed. It's perfect for my cozy bedroom."
+        },
+        {
+          "username": "HandyAssembly5",
+          "rating": 4,
+          "comment": "Assembly was straightforward, but it took some time."
+        },
+        {
+          "username": "LuxuryBedroomFan",
+          "rating": 5,
+          "comment": "Perfect for anyone wanting a luxurious bedroom."
+        }
+      ]
+    },{
+      "id": 49,
+      "category": "Beds",
+      "name": "comfort Bed",
+      "price": 5000.92,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12bTYxl1KJJIa9cUG7lMQUOJVYMjVp4vXxQ&usqp=CAU",
+      "brand": "comfort",
+      "size": "84\" x 62\" x 36\"",
+      "material": "Fabric",
+      "color": "Beige",
+      "finish_type": "Soft",
+      "about": "Upgrade your bedroom with our comfort Bed. This beige fabric platform bed features a soft finish and a stylish headboard. It adds a touch of luxury to your space. Dimensions: 84\" x 62\" x 36\".",
+      "rating": 2,
+      "reviews": [
+        {
+          "username": "LuxuriousRetreat",
+          "rating": 5,
+          "comment": "This comfort platform bed is pure luxury! So comfortable."
+        },
+        {
+          "username": "comfortLove",
+          "rating": 4,
+          "comment": "Great value for a stylish platform bed."
+        },
+        {
+          "username": "CozyBedroom",
+          "rating": 5,
+          "comment": "I'm in love with this bed. It's perfect for my cozy bedroom."
+        },
+        {
+          "username": "HandyAssembly5",
+          "rating": 4,
+          "comment": "Assembly was straightforward, but it took some time."
+        },
+        {
+          "username": "LuxuryBedroomFan",
+          "rating": 5,
+          "comment": "Perfect for anyone wanting a luxurious bedroom."
+        }
+      ]
+    },{
+      "id": 50,
+      "category": "Beds",
+      "name": "Upholstered Platforms Bed",
+      "price": 3449.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9RBiA50H0FK5STuwHga-8mAXgOhL90gjrmQ&usqp=CAU",
+      "brand": "UpholsteredLux",
+      "size": "84\" x 62\" x 36\"",
+      "material": "Fabric",
+      "color": "Beige",
+      "finish_type": "Soft",
+      "about": "Upgrade your bedroom with our Upholstered Platform Bed. This beige fabric platform bed features a soft finish and a stylish headboard. It adds a touch of luxury to your space. Dimensions: 84\" x 62\" x 36\".",
+      "rating": 2,
+      "reviews": [
+        {
+          "username": "LuxuriousRetreat",
+          "rating": 5,
+          "comment": "This upholstered platform bed is pure luxury! So comfortable."
+        },
+        {
+          "username": "UpholsteredLove",
+          "rating": 4,
+          "comment": "Great value for a stylish platform bed."
+        },
+        {
+          "username": "CozyBedroom",
+          "rating": 5,
+          "comment": "I'm in love with this bed. It's perfect for my cozy bedroom."
+        },
+        {
+          "username": "HandyAssembly5",
+          "rating": 4,
+          "comment": "Assembly was straightforward, but it took some time."
+        },
+        {
+          "username": "LuxuryBedroomFan",
+          "rating": 5,
+          "comment": "Perfect for anyone wanting a luxurious bedroom."
+        }
+      ]
+    },{
+      "id": 51,
+      "category": "Beds",
+      "name": "Platform Bed",
+      "price": 5449.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm2i6qKiqLQjbzcQ0Ke3CgtqhcNV7sfBll4g&usqp=CAU",
+      "brand": "UpholsteredLux",
+      "size": "84\" x 62\" x 36\"",
+      "material": "Fabric",
+      "color": "Beige",
+      "finish_type": "Soft",
+      "about": "Upgrade your bedroom with our Platform Bed. This beige fabric platform bed features a soft finish and a stylish headboard. It adds a touch of luxury to your space. Dimensions: 84\" x 62\" x 36\".",
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "LuxuriousRetreat",
+          "rating": 5,
+          "comment": "This upholstered platform bed is pure luxury! So comfortable."
+        },
+        {
+          "username": "UpholsteredLove",
+          "rating": 4,
+          "comment": "Great value for a stylish platform bed."
+        },
+        {
+          "username": "CozyBedroom",
+          "rating": 5,
+          "comment": "I'm in love with this bed. It's perfect for my cozy bedroom."
+        },
+        {
+          "username": "HandyAssembly5",
+          "rating": 4,
+          "comment": "Assembly was straightforward, but it took some time."
+        },
+        {
+          "username": "LuxuryBedroomFan",
+          "rating": 5,
+          "comment": "Perfect for anyone wanting a luxurious bedroom."
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "category": "Tables",
+      "name": "New Dining Table",
+      "price": 5099.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRByMq3tTgJCl6c1khzrWc861CYaDYHmg_TGPfXNxeqEB9HtE33L0vo_khGDG23O_zGQ30&usqp=CAU",
+      "brand": "ModernLiving",
+      "size": "72\" x 36\" x 30\"",
+      "material": "Wood",
+      "color": "Walnut",
+      "finish_type": "Matte",
+      "about": "Upgrade your dining area with our Modern Dining Table. This walnut dining table features a matte finish and sleek design, perfect for family gatherings. Dimensions: 72\" x 36\" x 30\".",
+      "rating": 2,
+      "reviews": [
+        {
+          "username": "Sarah123",
+          "rating": 5,
+          "comment": "I love this dining table! It's beautiful and sturdy."
+        },
+        {
+          "username": "JohnDoe45",
+          "rating": 4,
+          "comment": "Great value for a modern dining table."
+        },
+        {
+          "username": "ElegantHome",
+          "rating": 5,
+          "comment": "I'm very pleased with this purchase. It's perfect."
+        },
+        {
+          "username": "FurnitureFanatic",
+          "rating": 4,
+          "comment": "Assembly was straightforward, but it took some time."
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "category": "Desks",
+      "name": "star Writing Desk",
+      "price": 3179.99,
+      "image": "https://themes.muffingroup.com/be/furniturestore/wp-content/uploads/2022/06/furniturestore-product-pic14.webp",
+      "brand": "starStyle",
+      "size": "48\" x 24\" x 30\"",
+      "material": "Wood",
+      "color": "Brown",
+      "finish_type": "Matte",
+      "about": "Upgrade your workspace with our Modern Writing Desk. This espresso wood desk features a matte finish and a spacious design, perfect for work and study. Dimensions: 48\" x 24\" x 30\".",
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "ProductivityPro3",
+          "rating": 5,
+          "comment": "This desk has improved my productivity. Love it!"
+        },
+        {
+          "username": "CleanWorkspace3",
+          "rating": 4,
+          "comment": "Great value for a stylish writing desk."
+        },
+        {
+          "username": "MinimalistAtHeart3",
+          "rating": 5,
+          "comment": "I'm so happy with this purchase. It's perfect."
+        },
+        {
+          "username": "EasyAssembly4",
+          "rating": 4,
+          "comment": "Assembly was straightforward, no complaints."
+        },
+        {
+          "username": "WorkspaceEnthusiast3",
+          "rating": 5,
+          "comment": "Perfect for my minimalist home office."
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "category": "Cabinets",
+      "name": "Modern Stand",
+      "price": 249.95,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG1L6J8fSEdkM9rdZRSKFJb2pop2fqdVuA4g&usqp=CAU",
+      "brand": "ModernLiving",
+      "size": "60\" x 16\" x 24\"",
+      "material": "Wood and Metal",
+      "color": "White and Black",
+      "finish_type": "Matte",
+      "about": "Elevate your entertainment area with our Modern TV Stand. This white wood and black metal TV stand features a matte finish and ample storage for media devices. Dimensions: 60\" x 16\" x 24\".",
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "EntertainmentLover",
+          "rating": 5,
+          "comment": "I'm thrilled with this TV stand! It's perfect for my entertainment setup."
+        },
+        {
+          "username": "ModernHome",
+          "rating": 4,
+          "comment": "Great value for a stylish TV stand."
+        },
+        {
+          "username": "HappyBingeWatcher",
+          "rating": 5,
+          "comment": "I love this purchase. It's great for binge-watching."
+        },
+        {
+          "username": "EasyStorage5",
+          "rating": 4,
+          "comment": "Assembly was straightforward, but it's a bit heavy."
+        },
+        {
+          "username": "TVStandFan",
+          "rating": 5,
+          "comment": "Perfect for anyone who loves entertainment."
+        }
       ]
     }
   ],
