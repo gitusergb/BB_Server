@@ -6621,8 +6621,40 @@
     }
   ],
   "cart":[
-    
-  ]
+  {
+    "id": 3,
+    "category": "Beds",
+    "name": "Platform Bed",
+    "price": 399.99,
+    "image": "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4d2owcfjil8f1nfdq9yg.png",
+    "brand": "DreamComfort",
+    "size": "80\" x 60\" x 14\"",
+    "material": "Wood",
+    "quantity":1,
+    "color": "Espresso",
+    "finish_type": "Satin",
+    "about": "Transform your bedroom with our Platform Bed. This espresso wood platform bed features a satin finish and a sleek design, providing both style and comfort. Dimensions: 80\" x 60\" x 14\".",
+    "rating": 4,
+    "reviews": [
+      {
+        "username": "DreamyNights",
+        "rating": 5,
+        "comment": "I love this platform bed! It's beautiful and comfortable."
+      },
+      {
+        "username": "HandyAssembly",
+        "rating": 4,
+        "comment": "Assembly was straightforward, but it took some time."
+      },
+      {
+        "username": "SleekSlumber",
+        "rating": 5,
+        "comment": "Highly recommend for a contemporary bedroom."
+      }
+    ]
+  }
+]
+  
   
 }
 
