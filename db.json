@@ -6653,6 +6653,49 @@
       }
     ]
   }
+],
+"AIimages":[
+  { "id":0,
+     "name":"Gauri Bidwai",
+   "prompt":"superwomen",
+    "photo":"https://i.ibb.co/qpQr5DT/superwomen-329a49fa-680a-4927-85f4-c0f834620e6f.png"
+  },
+  {
+    "id":1,
+    "name":"Gauri Bidwai",
+  "prompt":"A synthwave style sunset above the reflecting water of the sea, digital art",
+   "photo":""
+ },
+ {
+  "id":2,
+  "name":"Gauri Bidwai",
+"prompt":"Spongebob Squarepants in the Blair Witch Project",
+ "photo":""
+},
+{
+  "id":3,
+ "name":"Gauri Bidwai",
+"prompt":"3D render of a cute tropical fish in an aquarium on a dark blue background, digital art",
+"photo":""
+},
+{
+  "id":4,
+  "name":"Gauri Bidwai",
+"prompt":"A Space Shuttle flying above Cape Town, digital art",
+ "photo":""
+},
+{
+  "id":5,
+ "name":"Gauri Bidwai",
+"prompt":"a sea otter with a pearl earring by Johannes Vermeer",
+"photo":""
+},
+{
+  "id":6,
+ "name":"Gauri Bidwai",
+"prompt":"A BBQ that is alive, in the style of a Pixar animated movie",
+"photo":""
+}
 ]
   
   
