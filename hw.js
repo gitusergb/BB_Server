@@ -574,6 +574,24 @@ const products = [
 //     };
 //     console.log(product, ",");
 // }
+let o={}
 for (let i = 0; i < products.length; i++) {
-      console.log(`{"name":"${products[i].name}", "material": "${products[i].material}","Length":"6-12 meter","Shape": "Round....", "Price":"350/KG", "grade":"${products[i].grade}" } ,`);
-  }
+      // console.log(`{"name":"${products[i].name}", "material": "${products[i].material}","Length":"6-12 meter","Shape": "Round....", "Price":"350/KG", "grade":"${products[i].grade}" } ,`);
+ 
+//  if(o[products[i].name]===undefined){
+//   o[products[i].name]=0
+//  } o[products[i].name]++;
+
+//  if(o[products[i].material]===undefined){
+//   o[products[i].material]=0
+//  } o[products[i].material]++;
+}
+// console.log(o)
+// let c=0;
+// for(let k in o){
+//   console.log(`<option value="${k}">${k} ${o[k]}</option>`)
+//   c++;
+// }
+// for(let i=0;i<=c;i++){
+//   console.log(`<option value="${i}">${i}</option>`)
+// }
