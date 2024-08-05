@@ -575,5 +575,5 @@ const products = [
 //     console.log(product, ",");
 // }
 for (let i = 0; i < products.length; i++) {
-      console.log(`{"name":"${products[i].name}", "material": "${products[i].material}","Length":"6-12 meter Shape: Round....", "Price":"350/KG", "grade":"${products[i].grade}" } ,`);
+      console.log(`{"name":"${products[i].name}", "material": "${products[i].material}","Length":"6-12 meter","Shape": "Round....", "Price":"350/KG", "grade":"${products[i].grade}" } ,`);
   }
